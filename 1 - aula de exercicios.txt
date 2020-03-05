@@ -1,0 +1,32 @@
+1-) alternativa que contém a descrição correta de algoritimo
+	C-)Algoritimo é uma descrição das etapas de resolução de um problema
+	ou a indicação ordenada de uma sequencia de ações bem-definidas.
+
+2-)assinale a opção que não apresenta um exemplo de linguagem de programação 
+	D-)Windows XP.
+
+3-)qual é o utilitario responsável por gerar, a partir de um
+programa escrito em uma linguagem de alto nível um programa 
+em linguagem de máquina não executavel chamado de módulo-objeto?
+	E-)Compilador.
+
+4-) a expressão Z = X % Y corresponde a Z igual 
+	c-) ao resto da divisão X por Y.
+
+5-) fluxograma é um tipo  de 
+	a-)representação gráfica de algoritmos.
+
+6-)assinaçe a alternativa que contém o símbolo utlizado em 
+fluxogramas de sistemas de processamento de dados para indicar
+saídas impressas como, por exemplo, a emissão de um ou vários
+relatorios.
+	c-) simbolo de terminator de pagina.
+
+7-) Relacione os simbolos utilizados no fluxograma com seus
+respectivos nomes e, a seguir, assinale a alternativa que contém 
+a sequencia correta.
+	a-) 3-1-6-4-7-5-8-2
+
+ 
+
+
